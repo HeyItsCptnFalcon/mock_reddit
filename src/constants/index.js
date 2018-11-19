@@ -6,7 +6,6 @@
  *    add them to this file.
  */
 
-export const UPVOTE = 'UPVOTE';
-export const DOWNVOTE = 'DOWNVOTE';
-export const SUBMIT = 'SUBMIT';
+export const ADD_POST = 'ADD_POST';
+export const VIEW_POSTS = 'VIEW_POSTS';
 
